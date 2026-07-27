@@ -2,8 +2,6 @@
 
 This folder contains my notes and code for Python Basics.
 
-# Module 1 – Python Basics
-
 ## Topics Covered
 
 - Variables & Data Types
